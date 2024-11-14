@@ -1,31 +1,73 @@
-# [Your Project Title Here]
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="text-align: center; border: none;"><span style="font-size: 36px;"> Bitcoin Price Prediction</span></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: none;"><span style="font-size: 30px;"> Multivariate Time Series Prediction</span></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: none;"><span style="font-size: 24px;"> Using, (S)ARIMA(X), DCC-GARCH, BEK-GARCH, VEC-GARCH, Prophet, and LSTM Models</span></td>
+  </tr>
 
-## Repository Link
+  <tr>
+    <td style="text-align: center; border: none;">
+      <a href="https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="36" height="36">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: none;"><span style="font-size: 16px;"> Github Repository</span></td>
+  </tr>
+  </table>
 
-[https://github.com/your_username/your_project_name]
 
-## Description
+**Group Members:** 
+[Hassan Absar](https://github.com/hassanabsarqaimkhani), [Khushi Kala](https://github.com/kalakhushi18), Tran Kim Ngan Nguyen, Tanishka Saha, Chetna Lourembam
+________________________
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+### Description:
+
+This project is part of the [**Advanced Time Series Prediction**](https://edu.opencampus.sh/en/course/488) course at [**OpenCampus**](https://opencampus.sh/). The primary goal is to conduct a comprehensive *Multivariate Time Series Analysis* to predict the daily closing price of Bitcoin, focusing on the influence of various economic, social, and sentiment-based factors.
+
+### Project Objective
+
+We aim to predict **Bitcoin’s daily closing prices** by examining the potential impact of multiple time series variables:
+
+- **S&P 500 Closing Data**: to capture broader movements in organized capital market.
+- **Inflation Rate**: to account for macroeconomic pressures arising from monetary policy.
+- **Daily Treasury Rates**: representing economic stability indicator for the money market.
+- **Bitcoin Daily Google Trends**: to gauge public interest.
+- **Twitter Sentiments**: to assess social media sentiment around Bitcoin.
+- **Holiday Indicator**: to consider public holidays and weekends as factors that might influence trading volume and price volatility.
 
 ### Task Type
-
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Regression (specifically, a Multivariate Time Series Regression)
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+| Technique/Model      | Accuracy | MSE  | F1-Score | RMSE | MAE |
+|----------------------|----------|------|----------|------|-----|
+| (S)ARIMA(X)          |          |      |          |      |     |
+| DCC-GARCH            |          |      |          |      |     |
+| BEK-GARCH            |          |      |          |      |     |
+| VEC-GARCH            |          |      |          |      |     |
+| Prophet              |          |      |          |      |     |
+| LSTM (Vanilla)       |          |      |          |      |     |
+| LSTM (Bidirectional) |          |      |          |      |     |
+| LSTM (Attention)     |          |      |          |      |     |
 
-## Documentation
+### Documentation
 
-1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+1. [**Literature Review**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/blob/main/0_LiteratureReview)
+2. [**Dataset Characteristics**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/tree/main/1_DatasetCharacteristics)
+3. [**Data Engineering**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/tree/main/2_DataEngineering)
+4. [**Baseline Model**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/tree/main/3_BaselineModel)
+5. [**Model**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/tree/main/4_Model)
+6. [**Presentation**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/tree/main/5_Presentation)
+7. [**Streamlit Application**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/tree/main/6_StreamlitApplication)
+8. [**Cover Image**](https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24/tree/main/CoverImage)
 
-## Cover Image
+### Cover Image
 
 ![Project Cover Image](CoverImage/cover_image.png)
