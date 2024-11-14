@@ -1,26 +1,11 @@
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="text-align: center; border: none;"><span style="font-size: 36px;"> Bitcoin Price Prediction</span></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: none;"><span style="font-size: 30px;"> Multivariate Time Series Prediction</span></td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: none;"><span style="font-size: 24px;"> Using, (S)ARIMA(X), DCC-GARCH, BEK-GARCH, VEC-GARCH, Prophet, and LSTM Models</span></td>
-  </tr>
+# Bitcoin Price Prediction
+## Multivariate Time Series Prediction
+### Using, (S)ARIMA(X), DCC-GARCH, BEK-GARCH, VEC-GARCH, Prophet, and LSTM Models
 
-  <tr>
-    <td style="text-align: center; border: none;">
-      <a href="https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="36" height="36">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: none;"><span style="font-size: 16px;"> Github Repository</span></td>
-  </tr>
-  </table>
-
+### Github Repository
+<a href="https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30">
+</a>
 
 **Group Members:** 
 [Hassan Absar](https://github.com/hassanabsarqaimkhani), [Khushi Kala](https://github.com/kalakhushi18), Tran Kim Ngan Nguyen, Tanishka Saha, Chetna Lourembam
