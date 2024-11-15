@@ -3,11 +3,11 @@
 ### Using, (S)ARIMA(X), DCC-GARCH, BEK-GARCH, VEC-GARCH, Prophet, and LSTM Models
 
 ### Github Repository
-<a href="https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24">
+  <a href="https://github.com/kalakhushi18/Advance-Time-Series-Prediction-W24">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="30" height="30">
 </a>
 
-**Group Members:** 
+### Group Members: 
 [Hassan Absar](https://github.com/hassanabsarqaimkhani), [Khushi Kala](https://github.com/kalakhushi18), Tran Kim Ngan Nguyen, Tanishka Saha, Chetna Lourembam
 ________________________
 
